@@ -1,6 +1,6 @@
 //  1 no part (kilometerToMeter)
 
-//function kilometerToMeter(kilometer) {
+function kilometerToMeter(kilometer) {
     var meter = kilometer * 1000;
 
     return meter;
